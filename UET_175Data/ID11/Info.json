@@ -1,0 +1,13 @@
+{
+    "ID": "11",
+    "Birth": 1958,
+    "Gender": "Male",
+    "Clinical history": ["Right hemisphere infarct", "Right middle cerebral artery occlusion", "Diabetes mellitus type 2"],
+    "Assessment":
+    {
+        "NIHSS": 1,
+        "Muscle strength": 4,
+        "mRS": 1
+    },
+    "No of sessions": 1
+}

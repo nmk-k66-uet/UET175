@@ -1,0 +1,13 @@
+{
+    "ID": "06",
+    "Birth": 1951,
+    "Gender": "Female",
+    "Clinical history": ["Left pontine infarct", "Diabetes mellitus type 2", "Hypertension"],
+    "Assessment":
+    {
+        "NIHSS": 4,
+        "Muscle strength": 4,
+        "mRS": 2
+    },
+    "No of sessions": 1
+}

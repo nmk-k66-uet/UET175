@@ -1,0 +1,13 @@
+{
+    "ID": "04",
+    "Birth": 1949,
+    "Gender": "Male",
+    "Clinical history": ["Right thalamic, temporal and occipital lobes infarct"],
+    "Assessment":
+    {
+        "NIHSS": 4,
+        "Muscle strength": 4,
+        "mRS": 2
+    },
+    "No of sessions": 2
+}
