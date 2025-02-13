@@ -1,0 +1,13 @@
+{
+    "ID": "10",
+    "Birth": 1970,
+    "Gender": "Male",
+    "Clinical history": ["Right thalamic and internal capsule infarct", "Hypertension"],
+    "Assessment":
+    {
+        "NIHSS": 1,
+        "Muscle strength": 4,
+        "mRS": 1
+    },
+    "No of sessions": 1
+}

@@ -1,0 +1,13 @@
+{
+    "ID": "29",
+    "Birth": 1961,
+    "Gender": "Female",
+    "Clinical history": ["Right corona radiata infarct", "Hypertension"],
+    "Assessment":
+    {
+        "NIHSS": 3,
+        "Muscle strength": 4,
+        "mRS": 2
+    },
+    "No of sessions": 1
+}

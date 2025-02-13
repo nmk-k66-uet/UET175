@@ -1,0 +1,13 @@
+{
+    "ID": "08",
+    "Birth": 1968,
+    "Gender": "Female",
+    "Clinical history": ["Left corona radiata infarct", "Severe middle artery stenosi", "Diabetes mellitus type 2"],
+    "Assessment":
+    {
+        "NIHSS": 5,
+        "Muscle strength": 4,
+        "mRS": 3
+    },
+    "No of sessions": 3
+}

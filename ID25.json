@@ -1,0 +1,13 @@
+{
+    "ID": "25",
+    "Birth": 1984,
+    "Gender": "Male",
+    "Clinical history": ["Right frontal lobe infarct with hemorrhagic transformation", "Patent Foramen Ovale"],
+    "Assessment":
+    {
+        "NIHSS": 6,
+        "Muscle strength": 4,
+        "mRS": 4
+    },
+    "No of sessions": 1
+}

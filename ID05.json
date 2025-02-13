@@ -1,0 +1,13 @@
+{
+    "ID": "05",
+    "Birth": 1975,
+    "Gender": "Female",
+    "Clinical history": ["Left lentiform nucleus and internal capsule hemorrhage", "Hypertension"],
+    "Assessment":
+    {
+        "NIHSS": 8,
+        "Muscle strength": 3,
+        "mRS": 4
+    },
+    "No of sessions": 1
+}

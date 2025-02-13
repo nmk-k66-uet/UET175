@@ -1,0 +1,13 @@
+{
+    "ID": "16",
+    "Birth": 1960,
+    "Gender": "Male",
+    "Clinical history": ["Right internal capsule infarct", "Hypertension"],
+    "Assessment":
+    {
+        "NIHSS": 4,
+        "Muscle strength": 4,
+        "mRS": 2
+    },
+    "No of sessions": 1
+}

@@ -1,0 +1,13 @@
+{
+    "ID": "01",
+    "Birth": 1982,
+    "Gender": "Female",
+    "Clinical history": ["Right temporal lobe infarct", "Lupus nephritis", "Hypertension"],
+    "Assessment":
+    {
+        "NIHSS": 2,
+        "Muscle strength": 4,
+        "mRS": 2 
+    },
+    "No of sessions": 1
+}

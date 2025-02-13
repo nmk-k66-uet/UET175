@@ -1,0 +1,13 @@
+{
+    "ID": "23",
+    "Birth": 1964,
+    "Gender": "Male",
+    "Clinical history": ["Left corona radiata infarct", "Hypertension"],
+    "Assessment":
+    {
+        "NIHSS": 3,
+        "Muscle strength": 4,
+        "mRS": 2
+    },
+    "No of sessions": 3
+}
